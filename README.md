@@ -1,6 +1,10 @@
 # BookPublication
 **BookPublication** is a Website where you can publish your papers and books and also buy and preview others books and papers as well.
 
+**Admin Credentials** :- <br/>
+email: admin@admin.com <br/>
+password : Admin@123
+
 ---
 
 ### Implementation
